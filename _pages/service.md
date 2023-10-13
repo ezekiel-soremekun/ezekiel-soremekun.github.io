@@ -38,14 +38,15 @@ Recent Journal Reviews:
 
 Workshops 
 --------------------------------------------------------
-* Organizer and PC Chair, [SiMLA 2024](https://simla-workshop.github.io/Simla2024/) (co-located with [ACNS 2024](https://wp.nyu.edu/acns2024/workshops-accepted/): 22nd International Conference on Applied Cryptography and Network Security,  Abu Dhabi, UAE,  5-8 March, 2024)
-* Organizer and PC Chair, [SiMLA 2023](https://simla-workshop.github.io/Simla2023/) (co-located with [ACNS 2023](https://sulab-sever.u-aizu.ac.jp/ACNS2023/call_workshops.html): 21st International Conference on Applied Cryptography and Network Security, Kyoto, Japan,  19-22 June, 2023)
-* Publicity Chair and PC Member, [SiMLA 2022](https://asset-group.github.io/simla2022/) (co-located with [ACNS 2022](https://sites.google.com/di.uniroma1.it/acns2022/workshops?authuser=0) 20th International Conference on
+* PC Member,  [CPSS 2024 Workshop](https://asiaccs2024.sutd.edu.sg/cpss2024/) 10th ACM Cyber-Physical System Security Workshop (co-located with [ACM ASIACCS 2024](https://asiaccs2024.sutd.edu.sg/) 9th ACM ASIA Conference on Computer and Communications Security, Singapore from the 1st to 5th of July, 2024)
+* Organizer and PC Chair, [SiMLA 2024 Workshop](https://simla-workshop.github.io/Simla2024/) (co-located with [ACNS 2024](https://wp.nyu.edu/acns2024/workshops-accepted/): 22nd International Conference on Applied Cryptography and Network Security,  Abu Dhabi, UAE,  5-8 March, 2024)
+* Organizer and PC Chair, [SiMLA 2023 Workshop](https://simla-workshop.github.io/Simla2023/) (co-located with [ACNS 2023](https://sulab-sever.u-aizu.ac.jp/ACNS2023/call_workshops.html): 21st International Conference on Applied Cryptography and Network Security, Kyoto, Japan,  19-22 June, 2023)
+* Publicity Chair and PC Member, [SiMLA 2022 Workshop](https://asset-group.github.io/simla2022/) (co-located with [ACNS 2022](https://sites.google.com/di.uniroma1.it/acns2022/workshops?authuser=0) 20th International Conference on
 Applied Cryptography and Network Security, Rome, Italy, June 20 - June 23, 2022)
-* PC Member, [SiMLA 2021](https://asset-group.github.io/simla2021/) (co-located with [ACNS 2021](http://sulab-sever.u-aizu.ac.jp/ACNS2021/): 19th International Conference on Applied Cryptography and Network Security,
+* PC Member, [SiMLA 2021 Workshop](https://asset-group.github.io/simla2021/) (co-located with [ACNS 2021](http://sulab-sever.u-aizu.ac.jp/ACNS2021/): 19th International Conference on Applied Cryptography and Network Security,
 Kamakura, Japan,  21-24 June 2021)
-* PC Member, [ML4D Workshop 2021](https://ml4d.notion.site/Machine-Learning-for-the-Developing-World-ML4D-2021-548251eab3df4517819c4742c2e5c853) (co-located with [NeurIPS 2021](https://nips.cc/Conferences/2021): Thirty-fourth Conference on Neural Information Processing Systems)
-* PC Member, [ML4D Workshop 2020](https://neurips.cc/virtual/2020/public/workshop_16139.html) (co-located with [NeurIPS 2020](https://nips.cc/Conferences/2020): Thirty-fourth Conference on Neural Information Processing Systems)
+* PC Member, [ML4D 2021 Workshop](https://ml4d.notion.site/Machine-Learning-for-the-Developing-World-ML4D-2021-548251eab3df4517819c4742c2e5c853) (co-located with [NeurIPS 2021](https://nips.cc/Conferences/2021): Thirty-fourth Conference on Neural Information Processing Systems)
+* PC Member, [ML4D 2020 Workshop](https://neurips.cc/virtual/2020/public/workshop_16139.html) (co-located with [NeurIPS 2020](https://nips.cc/Conferences/2020): Thirty-fourth Conference on Neural Information Processing Systems)
 
 Others 
 -------
