@@ -29,9 +29,9 @@ Full list of journal review service can be found on [orcid](https://orcid.org/00
 
 Recent Journal Reviews:
 
-*  TOSEM, ACM Transactions on Software Engineering and Methodology (TOSEM 2021, 2022, 2023)
-*  TSE,  IEEE transactions on software engineering (TSE 2021, 2022, 2023)
+*  TSE,  IEEE Transactions on Software Engineering (TSE 2021, 2022, 2023)
 *  JSS, The Journal of systems and software (JSS 2023)
+*  TOSEM, ACM Transactions on Software Engineering and Methodology (TOSEM 2021, 2022, 2023)
 *  STVR,  Software testing, verification & reliability (STVR 2023)
 *  SQJ,  Software quality journal (SQJ 2022)
 
