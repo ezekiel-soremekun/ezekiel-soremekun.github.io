@@ -18,17 +18,17 @@ Summary of Recently Funded Projects
 GTDebug: Ground-Truth based Program Debugging
 ------------------------
 * **Title:** [“Ground-Truth based Program Debugging (GTDebug)”](https://www.fnr.lu/results-2021-core-call/#1620407951711-54861d53-816d)
-* **Funding Body: Luxembourg National Research Fund (FNR) Junior Core, C21/IS/15845400
+* **Funding Body:** Luxembourg National Research Fund (FNR) Junior Core, C21/IS/15845400
 * **Amount:** 634K€ (EUR)
 * **Duration:** 3 years: 2022 - 2025
-* **Role: Primary Investigator (PI) 
+* **Role:** Primary Investigator (PI) 
 * **Summary:** This project investigates “human factors in software validation (i.e., software testing and automated debugging)”. This project supports a Post-doctoral researcher and an engineer.
 * **Outputs:** [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588)
 
 FinInclusion: Assessing Financial Inclusion in Digital Financial Services
 ------------------------
 * **Title:** “FinInclusion: Assessing Financial Inclusion in Digital Financial Services (DFS)”
-* **Funding Body: Luxembourg National Research Fund (FNR) National Centres of Excellence in Research (NCER) program
+* **Funding Body:** Luxembourg National Research Fund (FNR) National Centres of Excellence in Research (NCER) program
 * **Amount:** 400K€ (EUR)
 * **Duration:** 2 years: 2023 - 2025
 * **Role:** Co-Primary Investigator (Co-PI)
@@ -38,9 +38,9 @@ FinInclusion: Assessing Financial Inclusion in Digital Financial Services
 LAIWYERS: Law and AI: WaYs to Explore Robust Solutions
 ------------------------
 * **Title:** “LAIWYERS: Law and AI: WaYs to Explore Robust Solutions” 
-* **Funding Body: Institute for Advanced Studies (IAS) of the University of Luxembourg, Audacity Grant (AUDACITY-2019-Laiwyers)
+* **Funding Body:** Institute for Advanced Studies (IAS) of the University of Luxembourg, Audacity Grant (AUDACITY-2019-Laiwyers)
 * **Amount:** 390K€ (EUR)
 * **Duration:** 3 years: 2020 - 2022
-* **Role: Co-Investigator (Research Lead)
+* **Role:** Co-Investigator (Research Lead)
 * **Summary:** This is a collaborative research project investigating the fairness properties of Legal AI systems jointly conducted by the SerVal Group, SnT (led by Prof. Yves Le Traon (Co-PI)), and the Media and Telecommunication Law Group (of  Prof. Dr. Mark Cole (Co-PI)).
 * **Outputs:** [TSE22](https://ieeexplore.ieee.org/abstract/document/9678017), [preprint](https://arxiv.org/pdf/2305.13935)
