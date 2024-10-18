@@ -9,6 +9,18 @@ author_profile: true
 University Lectures
 -----------------------------------
 
+* **Lecturer (Module leader): CS2800 Software Engineering**
+	* **Duration:** Term 1 (Sept. to Dec. 2024)
+	* **Course Title:** Software Engineering
+	* **Program:** BSc Computer Science (Year 2), Royal Holloway, University of London, UK. 
+	* **Summary:** Deliver lectures on software engineering to over 300 students. This course was co-led with Dr. DongGyun Han. 
+
+* **Lecturer (Module leader): CS2810 Team Project**
+	* **Duration:** Term 2 (Jan. to Mar. 2024)
+	* **Course Title:** Team Project
+	* **Program:** BSc Computer Science (Year 2), Royal Holloway, University of London, UK. 
+	* **Summary:** Deliver lectures on (Agile) Software Engineering with over 300 students and managing over 10 software teams of about 8-10 students each. This course was co-led with Dr. Argyrios Deligkas and Dr. Francisco Ferreira Ruiz. 
+
 * **Lecturer: SE4ML Course**
 	* **Duration:** WS 2022/23 (Dec. 2022) 
 	* **Course Title:** Software Engineering for Machine Learning (SE4ML)
@@ -45,6 +57,7 @@ University Lectures
 
 Invited Lectures
 -----------------------------------
+
 * **Invited Lecture (Software Fairness)**  		     	        
 	* **Duration:** Dec. 2021
 	* **Program:**   Legal Hackers Luxembourg, SnT, University of Luxembourg, Luxembourg. 
