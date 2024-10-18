@@ -12,14 +12,10 @@ Conferences
 
 Recent Program Committee Member: 
 
-*  [ICST 2024 - Research Track](https://conf.researchr.org/track/icst-2024/icst-2024-papers)
-*  [ICSE 2024 - Artifact Evaluation Track](https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation)
-*  [SANER 2024 - Research Track](https://conf.researchr.org/track/saner-2024/saner-2024-papers)
-*  [ASE 2023 - Research Track](https://conf.researchr.org/track/ase-2023/ase-2023-papers?)
-*  [ASE 2023 - Tool Demonstrations Track](https://conf.researchr.org/track/ase-2023/ase-2023-tool-demonstrations?)
-*  [ISSTA 2023 - Artifact Evaluation Track](https://2023.issta.org/track/issta-2023-artifact-evaluation)
-*  [SCAM 2022 - Replication and Negative Results (RENE) Track](https://www.ieee-scam.org/2022/#pc)
-*  [ICSME 2022 - Registered Reports (RR) Track](https://cyprusconferences.org/icsme2022/registered-reports-track/)
+*  **2025**: [ICSE 2025 - Research Track](https://conf.researchr.org/committee/icse-2025/icse-2025-research-track-research-track), [ISSTA 2025 - Research Track](https://conf.researchr.org/committee/issta-2025/issta-2025-papers-program-committee), [ICST 2025 - Research Track](https://conf.researchr.org/committee/icst-2025/icst-2025-papers-program-committee), [SANER 2025 - Research Track](https://conf.researchr.org/committee/saner-2025/saner-2025-papers-program-committee) 
+*  **2024**: [ICSE 2024 - Artifact Evaluation Track](https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation), [ESEC/FSE 2024 - Artifacts Track](https://2024.esec-fse.org/committee/fse-2024-artifacts-program-committee), [ISSTA 2024 - Technical Track](https://2024.issta.org/committee/issta-2024-papers-program-committee), [ASE 2024 - Research Track](https://conf.researchr.org/committee/ase-2024/ase-2024-papers-program-committee), [ASE 2024 - Tool Demo Track](https://conf.researchr.org/committee/ase-2024/ase-2024-tool-demonstrations-program-committee), [ICST 2024 - Research Track](https://conf.researchr.org/track/icst-2024/icst-2024-papers),  [SANER 2024 - Research Track](https://conf.researchr.org/track/saner-2024/saner-2024-papers)
+*  **2024**: [ASE 2023 - Research Track](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [ASE 2023 - Tool Demonstrations Track](https://conf.researchr.org/track/ase-2023/ase-2023-tool-demonstrations?), [ISSTA 2023 - Artifact Evaluation Track](https://2023.issta.org/track/issta-2023-artifact-evaluation)
+*  **2022**: [SCAM 2022 - Replication and Negative Results (RENE) Track](https://www.ieee-scam.org/2022/#pc), [ICSME 2022 - Registered Reports (RR) Track](https://cyprusconferences.org/icsme2022/registered-reports-track/)
 
 
 Journals
@@ -27,12 +23,18 @@ Journals
 
 Full list of journal review service can be found on [orcid](https://orcid.org/0000-0002-0039-8106) or [web of science](https://www.webofscience.com/wos/author/record/ADE-1138-2022) 
 
+* [Member, Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board), ACM Transactions on Software Engineering and Methodology (TOSEM) from 2024
+
 Recent Journal Reviews:
 
-*  TSE,  IEEE Transactions on Software Engineering (TSE 2021, 2022, 2023)
-*  JSS, The Journal of systems and software (JSS 2023)
-*  TOSEM, ACM Transactions on Software Engineering and Methodology (TOSEM 2021, 2022, 2023)
-*  STVR,  Software testing, verification & reliability (STVR 2023)
+*  TSE,  IEEE Transactions on Software Engineering (TSE 2021, 2022, 2023, 2024)
+*  TOSEM, ACM Transactions on Software Engineering and Methodology (TOSEM 2021, 2022, 2023, 2024)
+*  JSS, The Journal of systems and software (JSS 2023, 2024)
+*  EMSE,  Empirical software engineering (EMSE 2023, 2024)
+*  COSE, Computers & Security Journal (COSE 2024)
+*  CSUR, ACM Computing Surveys (CSUR 2024) 
+*  STVR,  Software testing, verification & reliability (STVR 2023, 2024)
+*  SCP, Science of computer programming (SCP 2023)
 *  SQJ,  Software quality journal (SQJ 2022)
 
 
