@@ -11,6 +11,14 @@ and [DBLP](https://dblp.org/pid/200/2864.html).
 Selected Journal Papers
 ------------------------
 
+* **"Distribution-aware Fairness Test Generation."**
+Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Yves Le Traon, Sudipta Chattopadhyay. 
+Journal of Systems and Software, Elsevier, 2024. 
+[link](https://www.sciencedirect.com/science/article/pii/S0164121224001353), 
+[preprint](https://arxiv.org/pdf/2305.13935)
+[GitHub](https://github.com/sparkssss/DistroFair)
+
+
 * **"Towards Backdoor Attacks and Defense in Robust Machine Learning Models."**
 **Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and  Sudipta Chattopadhyay. 
 Computers & Security, Elsevier, 2023. \* equal contribution.
@@ -42,6 +50,14 @@ IEEE Transactions on Software Engineering (2020)
 
 Selected Conference Papers
 --------------------------
+
+* **"Knowledge-based Consistency Testing of Large Language Models"**
+Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Sudipta Chattopadhyay. 
+Findings of the Association for Computational Linguistics: EMNLP 2024.
+[preprint](https://arxiv.org/abs/2407.12830)
+[GitHub](https://github.com/sparkssss/KonTest)
+
+
 
 * **"Evaluating the Impact of Experimental Assumptions in Automated Fault Localization."**
 **Soremekun, Ezekiel**, Lukas Kirschner, Marcel Böhme, and Mike Papadakis.
@@ -90,11 +106,6 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 
 Papers Under Review
 -------------------
-
-* **"Distribution-aware Fairness Test Generation."**
-Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Yves Le Traon, Sudipta Chattopadhyay. 
-(Under Review)
-[preprint](https://arxiv.org/pdf/2305.13935)
 
 * **"Input Repair via Synthesis and Lightweight Error Feedback."** 
 Kirschner, Lukas, Rahul Gopinath, **Ezekiel Soremekun**, and Andreas Zeller. 
