@@ -23,7 +23,9 @@ Journals
 
 Full list of journal review service can be found on [orcid](https://orcid.org/0000-0002-0039-8106) or [web of science](https://www.webofscience.com/wos/author/record/ADE-1138-2022) 
 
-* [Member (2024), Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board), ACM Transactions on Software Engineering and Methodology (TOSEM) 
+* [Member (2024), Distinguished Reviewers Board, ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
+
+
 Recent Journal Reviews:
 
 *  TSE,  IEEE Transactions on Software Engineering (TSE 2021, 2022, 2023, 2024)

@@ -51,7 +51,7 @@ IEEE Transactions on Software Engineering (2020)
 Selected Conference Papers
 --------------------------
 
-* **"Knowledge-based Consistency Testing of Large Language Models"**
+* **"Knowledge-based Consistency Testing of Large Language Models."**
 Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Sudipta Chattopadhyay. 
 Findings of the Association for Computational Linguistics: EMNLP 2024.
 [preprint](https://arxiv.org/abs/2407.12830)
