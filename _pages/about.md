@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Ezekiel Soremekun is a Lecturer (Asst. Prof.) in Computer Science (Software Engineering) at 
-[Royal Holloway, University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
+[Ezekiel Soremekun](https://istd.sutd.edu.sg/people/faculty/ezekiel-soremekun) is an Assistant Professor at 
+the [ISTD Pillar](https://istd.sutd.edu.sg/) of
+[Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
 
 
 Professional Experience
 -----------------------
-Ezekiel Soremekun was previously a Research Scientist 
+Ezekiel Soremekun was previously a Lecturer (Asst. Prof.) in Computer Science (Software Engineering) at Royal Holloway, University of London (RHUL), UK. Between 2020 and 2023, he was a Research Scientist 
 at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval) 
 (led by Prof. Dr. Yves Le Traon), 
 [SnT](https://wwwen.uni.lu/snt) 

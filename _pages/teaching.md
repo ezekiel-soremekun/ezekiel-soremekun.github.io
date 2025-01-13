@@ -9,6 +9,11 @@ author_profile: true
 University Lectures
 -----------------------------------
 
+* **Course Instructor:  [50.021 Artificial Intelligence](https://istd.sutd.edu.sg/undergraduate/courses/50021-artificial-intelligence/)**
+	 * **Duration:**  2025 Spring Term (Jan. to Apr. 2025)
+	 * **Course Title:** Artificial Intelligence
+	 * **Summary:** Deliver lectures on Artificial Intelligence.  This course is co-led with Prof. Lim Kwan Hui
+
 * **Lecturer (Module leader): CS2800 Software Engineering**
 	* **Duration:** Term 1 (Sept. to Dec. 2024)
 	* **Course Title:** Software Engineering
