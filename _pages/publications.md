@@ -51,8 +51,8 @@ IEEE Transactions on Software Engineering (2020)
 Selected Conference Papers
 --------------------------
 
-* **"End-user Comprehension of Transfer Risks in Smart Contracts."**  
-Panicker, Yustynn, **Ezekiel Soremekun**, Sudipta Chattopadhyay, Sumei Sun. 
+* **"End-user Comprehension of Transfer Risks in Smart Contracts."**
+Panicker, Yustynn, **Ezekiel Soremekun**, Sudipta Chattopadhyay, Sumei Sun.
 Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. CHI 2025.
 [preprint](https://arxiv.org/abs/2407.11440)
 [Artifact](https://zenodo.org/communities/tether-study)
