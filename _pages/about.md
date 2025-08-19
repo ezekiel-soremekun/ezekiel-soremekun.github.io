@@ -15,8 +15,10 @@ the [ISTD Pillar](https://istd.sutd.edu.sg/) of the
 
 <details>
   <summary>
-    News
+    NEWS
+	----
   </summary>
+  
   * One paper accepted at ISSRE 2055.  
   * One paper accpted at CSUR 2025. 
   * Awarded TL@SUTD grant (100K SGD) on ML supply chain security.
