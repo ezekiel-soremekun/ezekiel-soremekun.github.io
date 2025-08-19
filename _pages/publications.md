@@ -11,13 +11,19 @@ and [DBLP](https://dblp.org/pid/200/2864.html).
 Selected Journal Papers
 ------------------------
 
+* **"Software Fairness: An Analysis and Survey."**
+**Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
+ACM Computing Survey (CSUR) 2025.
+[preprint](https://arxiv.org/pdf/2205.08809)
+[Github - Preprint and Data](https://github.com/ezekiel-soremekun/Software-Fairness-Analysis)
+
+
 * **"Distribution-aware Fairness Test Generation."**
 Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Yves Le Traon, Sudipta Chattopadhyay. 
 Journal of Systems and Software, Elsevier, 2024. 
 [link](https://www.sciencedirect.com/science/article/pii/S0164121224001353), 
 [preprint](https://arxiv.org/pdf/2305.13935)
 [GitHub](https://github.com/sparkssss/DistroFair)
-
 
 * **"Towards Backdoor Attacks and Defense in Robust Machine Learning Models."**
 **Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and  Sudipta Chattopadhyay. 
@@ -50,6 +56,12 @@ IEEE Transactions on Software Engineering (2020)
 
 Selected Conference Papers
 --------------------------
+
+
+* **“Automatic Data Repair without Format Specifications”** 
+Luo, Zijian, Lukas Kirschner, **Ezekiel Soremekun**, and Rahul Gopinath.
+In Proceedings of the 36th IEEE International Symposium on Software Reliability Engineering. ISSRE 2025.
+[preprint](https://arxiv.org/pdf/2208.08235)
 
 * **"End-user Comprehension of Transfer Risks in Smart Contracts."**
 Panicker, Yustynn, **Ezekiel Soremekun**, Sudipta Chattopadhyay, Sumei Sun.
@@ -111,17 +123,20 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 Papers Under Review
 -------------------
 
-* **"Input Repair via Synthesis and Lightweight Error Feedback."** 
-Kirschner, Lukas, Rahul Gopinath, **Ezekiel Soremekun**, and Andreas Zeller. 
+* **"Directed Grammar-Based Test Generation."**
+Kirschner, Lukas and **Ezekiel Soremekun**
 (Under Review)
-[preprint](https://arxiv.org/pdf/2208.08235)
+[preprint](https://www.arxiv.org/abs/2508.01472)
 
-* **"Software Fairness: An Analysis and Survey."**
-**Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
+* **"HInter: Exposing Hidden Intersectional Bias in Large Language Models."**
+Souani, Badr, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay, and Yves Le Traon.
 (Under Review)
-[preprint](https://arxiv.org/pdf/2205.08809)
-[Github - Preprint and Data](https://github.com/ezekiel-soremekun/Software-Fairness-Analysis)
+[preprint](https://arxiv.org/abs/2503.11962)
 
+* **"Latent Mutants: A large-scale study on the Interplay between mutation testing and software evolution."**
+Sohn, Jeongju, Ezekiel Soremekun, and Michail Papadakis.
+(Under Review)
+[preprint](https://arxiv.org/abs/2501.01873)
 
 Thesis
 -------
