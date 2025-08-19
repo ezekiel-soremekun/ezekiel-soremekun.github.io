@@ -178,6 +178,9 @@ kramdown:
 
 # Collections
 collections:
+  resume:
+    output:true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -189,9 +192,6 @@ collections:
     permalink: /:collection/:path/
   service:
     output: true
-    permalink: /:collection/:path/
-  resume:
-    output:true
     permalink: /:collection/:path/
   portfolio:
     output: true
