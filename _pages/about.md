@@ -57,7 +57,7 @@ The over-arching research aim is to provide useful validation techniques, tools 
 generation of test inputs* to expose unexpected program behaviors (see [ASE17](https://ieeexplore.ieee.org/abstract/document/8115639), [TSE20](https://ieeexplore.ieee.org/abstract/document/9154602), [TOSEM23](https://dl.acm.org/doi/full/10.1145/3530786)), 
    * __Automated Debugging__: how to *automatically diagnose, mitigate and repair* incorrect program behaviors (see [ICSE20](https://dl.acm.org/doi/abs/10.1145/3377811.3380329), [FSE20](https://dl.acm.org/doi/abs/10.1145/3368089.3409687), [ISSTA20](https://dl.acm.org/doi/abs/10.1145/3395363.3397349),
    [EMSE21](https://link.springer.com/article/10.1007/s10664-020-09931-7), [ISSRE25](https://arxiv.org/pdf/2208.08235)), 
-   * __Human Factors in SE__: studying and accounting for *developer behaviors* during (automated) software testing and debugging activities (see [ESEC/FSE17](https://dl.acm.org/doi/abs/10.1145/3106237.3106255),  [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588)
+   * __Human Factors in SE__: studying and accounting for *developer behaviors* during (automated) software testing and debugging activities (see [ESEC/FSE17](https://dl.acm.org/doi/abs/10.1145/3106237.3106255),  [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588), 
    [CHI25](https://arxiv.org/abs/2407.11440)), and 
 <!---  * __Human-in-the-loop SE__: building testing and debugging tools that *account for developer behaviors, needs 
 and interactions in software practice*.  --->
