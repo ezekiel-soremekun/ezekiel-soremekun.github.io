@@ -15,24 +15,40 @@ the [ISTD Pillar](https://istd.sutd.edu.sg/) of the
 
 
 
-NEWS
+News
 ----
 
-  * One paper accpted at CSUR 2025 ([CSUR25](https://arxiv.org/pdf/2205.08809)).   
-  * One paper accepted at ISSRE 2025 ([ISSRE25](https://arxiv.org/pdf/2208.08235)).
-  * One paper accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440)). 
-  * Awarded TL@SUTD grant (100K SGD) on ML supply chain security.
-  
+  * [Jul '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://arxiv.org/pdf/2205.08809)) (Core A*).   
+  * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](https://arxiv.org/pdf/2208.08235)) (Core A).
+  * [May '25] Awarded a TL@SUTD grant (100K SGD) on ML supply chain security (as PI).
+  * [Apr. '25] Honored to receive the IEEE/ACM Distinguished Reviewer Award, ICSE 2025 (Core A*).  
+  * [Apr. '25] Awarded an MOE AcRF Tier 1 (SKI) grant (100K SGD) on Grammar-based Test Generation (as PI). 
+  * [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440))  (Core A*). 
+  * [2024] Invited to join the [ACM TOSEM Board of Distinguished Reviewers](https://dl.acm.org/journal/tosem/distinguished-reviewers-board) (Core A*).  
+  * [2024] Our paper on consistency testing of LLMs is accepted at EMNLP 2024 (Core A*).
+  * [2024] Our work on distribution-aware fairness testing is accepted at JSS 2024 (Core A).
+
+<!--- 
 <details>
   <summary>
-    More Details
-	----
+    **Older**
   </summary>
 
-  * Awarded MOE AcRF Tier 1 (SKI) grant (100K SGD) on Grammar-based Test Generation. 
-  * Received the IEEE/ACM Distinguished Reviewer Award, ICSE 2025.
-</details>
+  * Honored to be awarded an EPSRC Standard Research Grant, (£740K GBP) (as Co-PI).  
+  * Paper accepted at ICSE 2023 .
+  * Paper accepted at TOSEM 2023 .
+  * Awarded an FNR Junior Core grant (634K€ EUR). 
+  * Paper accepted at COSE 2023 .
+  * Paper accepted at TSE 2022 . 
+  * Paper accepted at MSR 2022 .
+  * Paper accepted at EMSE 2021 . 
+  * Paper accepted at ICSE 2020 .
+  * Paper accepted at TSE 2020 .
+  * Paper accepted at FSE 2020 . 
+  * Paper accepted at ISSTA 2020 .
 
+</details>
+  --->
 
 Professional Experience
 -----------------------
