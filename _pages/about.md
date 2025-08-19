@@ -12,6 +12,7 @@ redirect_from:
 the [ISTD Pillar](https://istd.sutd.edu.sg/) of the 
 [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
 
+See [Resume](https://ezekiel-soremekun.github.io/resume/) for professional experience and education. 
 
 News
 ----
