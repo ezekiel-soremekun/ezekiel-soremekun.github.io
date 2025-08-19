@@ -35,10 +35,10 @@ News
   </summary>
 
  <ul>
-  <li>[2025] Served on the PC of ICSE 2024 (Core A\*), ASE 2024 (Core A\*), ISSTA 2024 (Core A) & SANER 2024 (Core A). </li>
-  <li>[2024] Honored to join the <a href="https://dl.acm.org/journal/tosem/distinguished-reviewers-board">ACM TOSEM Board of Distinguished Reviewers</a> (Core A\*). </li>
-  <li>[2024] Our paper on "consistency testing of LLMs" is accepted at [EMNLP 2024] <a href="https://arxiv.org/abs/2407.12830">EMNLP24</a> (Core A\*). </li>
-  <li>[2024] Our work on "distribution-aware fairness testing" is accepted at JSS 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0164121224001353">JSS 2024</a> (Core A).</li> 
+  <li>[2025] Served on the PC of ICSE 2024 (Core A*), ASE 2024 (Core A*), ISSTA 2024 (Core A) & SANER 2024 (Core A). </li>
+  <li>[2024] Honored to join the <a href="https://dl.acm.org/journal/tosem/distinguished-reviewers-board">ACM TOSEM Board of Distinguished Reviewers</a> (Core A*). </li>
+  <li>[2024] Our paper on "consistency testing of LLMs" is accepted at <a href="https://arxiv.org/abs/2407.12830">EMNLP24</a> (Core A*). </li>
+  <li>[2024] Our work on "distribution-aware fairness testing" is accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0164121224001353">JSS 2024</a> (Core A).</li> 
  </ul>
 </details>
 
