@@ -13,8 +13,6 @@ the [ISTD Pillar](https://istd.sutd.edu.sg/) of the
 [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
 
 
-
-
 News
 ----
 
