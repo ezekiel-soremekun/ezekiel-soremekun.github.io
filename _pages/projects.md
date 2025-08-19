@@ -14,7 +14,7 @@ Summary of Recently Funded Projects
 
 * 2024 - 2027 Co-Primary Investigator (Co-PI) / “INDIMO: Invariant Discovery and Monitoring for Message-Passing Programs” / Engineering & Physical Sciences Research Council (EPSRC) Standard Research Grant / 740K£ (GBP)
 
-* 2022 – 2025 Primary Investigator (PI) / [“Ground-Truth based Program Debugging (GTDebug)”](https://www.fnr.lu/results-2021-core-call/#1620407951711-54861d53-816d) / “C21/IS/15845400” / Luxembourg National Research Fund (FNR) Junior Core / 634K€ (EUR) 
+* 2022 – 2023 Primary Investigator (PI) / [“Ground-Truth based Program Debugging (GTDebug)”](https://www.fnr.lu/results-2021-core-call/#1620407951711-54861d53-816d) / “C21/IS/15845400” / Luxembourg National Research Fund (FNR) Junior Core / 634K€ (EUR) 
 
 * 2023 – 2025 	Co-Primary Investigator (Co-PI) / “FinInclusion: Assessing Financial Inclusion in Digital Financial Services (DFS)” / Luxembourg National Research Fund (FNR) National Centres of Excellence in Research (NCER) program / 400K€ (EUR) 
 
@@ -26,7 +26,7 @@ GTDebug: Ground-Truth based Program Debugging
 * **Title:** [“Ground-Truth based Program Debugging (GTDebug)”](https://www.fnr.lu/results-2021-core-call/#1620407951711-54861d53-816d)
 * **Funding Body:** Luxembourg National Research Fund (FNR) Junior Core, C21/IS/15845400
 * **Amount:** 634K€ (EUR)
-* **Duration:** 3 years: 2022 - 2025
+* **Duration:** 1 year: 2022 - 2023
 * **Role:** Primary Investigator (PI) 
 * **Summary:** This project investigates “human factors in software validation (i.e., software testing and automated debugging)”. This project supports a Post-doctoral researcher and an engineer.
 * **Outputs:** [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588)
