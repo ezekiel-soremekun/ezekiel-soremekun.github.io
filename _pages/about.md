@@ -16,6 +16,9 @@ the [ISTD Pillar](https://istd.sutd.edu.sg/) of the
 Professional Experience
 -----------------------
 
+* 2024 - Present: Assistant Professor at the [ISTD Pillar](https://istd.sutd.edu.sg/),
+[Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
+
 * 2023 - 2025: Lecturer (Asst. Prof.) in Computer Science (Software Engineering) at Royal Holloway, University of London ([RHUL](https://www.royalholloway.ac.uk/)), UK. 
 
 * 2020 - 2023:  Research Scientist at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval) 
