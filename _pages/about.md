@@ -13,17 +13,24 @@ the [ISTD Pillar](https://istd.sutd.edu.sg/) of the
 [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
 
 
+
+
+NEWS
+----
+
+  * One paper accpted at CSUR 2025 ([CSUR25](https://arxiv.org/pdf/2205.08809)).   
+  * One paper accepted at ISSRE 2025 ([ISSRE25](https://arxiv.org/pdf/2208.08235)).
+  * One paper accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440)). 
+  * Awarded TL@SUTD grant (100K SGD) on ML supply chain security.
+  
 <details>
   <summary>
-    NEWS
+    More Details
 	----
   </summary>
-  
-  * One paper accepted at ISSRE 2055.  
-  * One paper accpted at CSUR 2025. 
-  * Awarded TL@SUTD grant (100K SGD) on ML supply chain security.
+
   * Awarded MOE AcRF Tier 1 (SKI) grant (100K SGD) on Grammar-based Test Generation. 
-  * Received Distinguished Reviewer Award, ICSE 2025.
+  * Received the IEEE/ACM Distinguished Reviewer Award, ICSE 2025.
 </details>
 
 
