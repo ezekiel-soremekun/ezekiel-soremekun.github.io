@@ -31,14 +31,15 @@ News
 
 <details>
   <summary>
-    **Older**
+    <b>Older</b>
   </summary>
 
-  * [2025] Invited to serve on the PC of ICSE 2024 (Core A*), ASE 2024 (Core A\*), ISSTA 2024 (Core A) & SANER 2025 (Core A). 
-  * [2024] Honored to join the [ACM TOSEM Board of Distinguished Reviewers](https://dl.acm.org/journal/tosem/distinguished-reviewers-board) (Core A*). 
-  * [2024] Our paper on "consistency testing of LLMs" is accepted at [EMNLP 2024] [EMNLP24](https://arxiv.org/abs/2407.12830) (Core A*). 
-  * [2024] Our work on "distribution-aware fairness testing" is accepted at JSS 2024 [JSS24](https://www.sciencedirect.com/science/article/pii/S0164121224001353) (Core A). 
-
+ <ul>
+  <li>[2025] Invited to serve on the PC of ICSE 2024 (Core A\*), ASE 2024 (Core A\*), ISSTA 2024 (Core A) & SANER 2025 (Core A). </li>
+  <li>[2024] Honored to join the [ACM TOSEM Board of Distinguished Reviewers](https://dl.acm.org/journal/tosem/distinguished-reviewers-board) (Core A\*). </li>
+  <li>[2024] Our paper on "consistency testing of LLMs" is accepted at [EMNLP 2024] [EMNLP24](https://arxiv.org/abs/2407.12830) (Core A\*). </li>
+  <li>[2024] Our work on "distribution-aware fairness testing" is accepted at JSS 2024 [JSS24](https://www.sciencedirect.com/science/article/pii/S0164121224001353) (Core A).</li> 
+ </ul>
 </details>
 
 <!--- 
