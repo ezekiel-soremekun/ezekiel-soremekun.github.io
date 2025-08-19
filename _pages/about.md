@@ -25,7 +25,7 @@ News
   * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://arxiv.org/pdf/2205.08809)) (Core A*). 
   * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](https://arxiv.org/pdf/2208.08235)) (Core A). 
   * [May '25] Awarded a TL@SUTD grant (100K SGD) on ML supply chain security (as PI). 
-  * [Apr. '25] Honored to receive the IEEE/ACM Distinguished Reviewer Award, ICSE 2025 (Core A*).  
+  * [Apr. '25] Honored to receive the Distinguished Reviewer Award, ICSE 2025 (Core A*).  
   * [Apr. '25] Honored to be awarded an MOE AcRF Tier 1 (SKI) grant (100K SGD) on Grammar-based Test Generation (as PI). 
   * [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440))  (Core A*). 
 
