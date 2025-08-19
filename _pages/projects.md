@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Summary of Recently Funded Projects 
+Summary of Funded Projects 
 ----------------------------------
 
 * 2025 - 2026 Primary Investigator (PI) / “SafeFuzzer: Safety Fuzzing of Machine Learning (ML) Models” / Temasek Lab @SUTD Seed Grant (TL@SUTD Seed) / 100KS$ (SGD)
