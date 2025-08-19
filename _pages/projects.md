@@ -8,7 +8,13 @@ author_profile: true
 Summary of Recently Funded Projects 
 ----------------------------------
 
-* 2022 – 2025 	Sole Primary Investigator (PI) / [“Ground-Truth based Program Debugging (GTDebug)”](https://www.fnr.lu/results-2021-core-call/#1620407951711-54861d53-816d) / “C21/IS/15845400” / Luxembourg National Research Fund (FNR) Junior Core / 634K€ (EUR) 
+* 2025 - 2026 Primary Investigator (PI) / “SafeFuzzer: Safety Fuzzing of Machine Learning (ML) Models” / Temasek Lab @SUTD Seed Grant (TL@SUTD Seed) / 100KS$ (SGD)
+
+* 2025 - 2028 Primary Investigator (PI) / “GoalFuzzer: Goal-directed Fuzzing via Distribution Learning” / MOE AcRF Tier 1 (SUTD Kickstarter Initiative (SKI)) / 100KS$ (SGD)
+
+* 2024 - 2027 Co-Primary Investigator (Co-PI) / “INDIMO: Invariant Discovery and Monitoring for Message-Passing Programs” / Engineering & Physical Sciences Research Council (EPSRC) Standard Research Grant / 740K£ (GBP)
+
+* 2022 – 2025 Primary Investigator (PI) / [“Ground-Truth based Program Debugging (GTDebug)”](https://www.fnr.lu/results-2021-core-call/#1620407951711-54861d53-816d) / “C21/IS/15845400” / Luxembourg National Research Fund (FNR) Junior Core / 634K€ (EUR) 
 
 * 2023 – 2025 	Co-Primary Investigator (Co-PI) / “FinInclusion: Assessing Financial Inclusion in Digital Financial Services (DFS)” / Luxembourg National Research Fund (FNR) National Centres of Excellence in Research (NCER) program / 400K€ (EUR) 
 

@@ -12,7 +12,8 @@ University Lectures
 * **Course Instructor:  [50.021 Artificial Intelligence](https://istd.sutd.edu.sg/undergraduate/courses/50021-artificial-intelligence/)**
 	 * **Duration:**  2025 Spring Term (Jan. to Apr. 2025)
 	 * **Course Title:** Artificial Intelligence
-	 * **Summary:** Deliver lectures on Artificial Intelligence.  This course is co-led with Prof. Lim Kwan Hui
+	 * **Program:** BSc Computer Science students (Year 3 and 4), Singapore University of Technology and Design (SUTD), Singapore. 
+	 * **Summary:** Deliver lectures on Artificial Intelligence to over 110 Term 6/8 undergraduate students.  This course was co-led with Prof. Lim Kwan Hui. 
 
 * **Lecturer (Module leader): CS2800 Software Engineering**
 	* **Duration:** Term 1 (Sept. to Dec. 2024)
