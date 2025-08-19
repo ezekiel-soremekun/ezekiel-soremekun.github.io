@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Ezekiel Soremekun](https://istd.sutd.edu.sg/people/faculty/ezekiel-soremekun) is an Assistant Professor at 
+[Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Assistant Professor at 
 the [ISTD Pillar](https://istd.sutd.edu.sg/) of the 
 [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
 
