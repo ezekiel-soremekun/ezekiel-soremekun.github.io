@@ -21,8 +21,10 @@ Summary of Recently Funded Projects
 * 2020 – 2022 	Co-Investigator (Research Lead) / “LAIWYERS: Law and AI: WaYs to Explore Robust Solutions” / Audacity Grant AUDACITY-2019-Laiwyers / Institute for Advanced Studies (IAS) of the University of Luxembourg / 390K€ (EUR) 
 
 
-GTDebug: Ground-Truth based Program Debugging
+Details of Completed Projects
 ------------------------
+
+### GTDebug: Ground-Truth based Program Debugging
 * **Title:** [“Ground-Truth based Program Debugging (GTDebug)”](https://www.fnr.lu/results-2021-core-call/#1620407951711-54861d53-816d)
 * **Funding Body:** Luxembourg National Research Fund (FNR) Junior Core, C21/IS/15845400
 * **Amount:** 634K€ (EUR)
@@ -31,8 +33,7 @@ GTDebug: Ground-Truth based Program Debugging
 * **Summary:** This project investigates “human factors in software validation (i.e., software testing and automated debugging)”. This project supports a Post-doctoral researcher and an engineer.
 * **Outputs:** [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588)
 
-FinInclusion: Assessing Financial Inclusion in Digital Financial Services
-------------------------
+### FinInclusion: Assessing Financial Inclusion in Digital Financial Services
 * **Title:** “FinInclusion: Assessing Financial Inclusion in Digital Financial Services (DFS)”
 * **Funding Body:** Luxembourg National Research Fund (FNR) National Centres of Excellence in Research (NCER) program
 * **Amount:** 400K€ (EUR)
@@ -41,8 +42,7 @@ FinInclusion: Assessing Financial Inclusion in Digital Financial Services
 * **Summary:** This is an interdisciplinary/joint project investigating “Software Fairness of Digital Financial Services (DFS)” with the ADA Chair (of Prof. Dirk Andreas Zetzsche (Co-PI)) in Financial Law (inclusive finance), Chair in Sustainable Finance (of Prof. Michael Halling (Co-PI)) and Serval, SnT (led by Prof. Yves Le Traon and Dr. Mike Papadakis (Co-PIs)).
 * **Outputs:** [CSUR25](https://arxiv.org/pdf/2205.08809)
 
-LAIWYERS: Law and AI: WaYs to Explore Robust Solutions
-------------------------
+### LAIWYERS: Law and AI: WaYs to Explore Robust Solutions
 * **Title:** “LAIWYERS: Law and AI: WaYs to Explore Robust Solutions” 
 * **Funding Body:** Institute for Advanced Studies (IAS) of the University of Luxembourg, Audacity Grant (AUDACITY-2019-Laiwyers)
 * **Amount:** 390K€ (EUR)
