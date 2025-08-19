@@ -190,9 +190,9 @@ collections:
   service:
     output: true
     permalink: /:collection/:path/
-  #resume:
-  #  output:true
-  #  permalink: /:collection/:path/
+  resume:
+    output:true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
