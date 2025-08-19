@@ -39,7 +39,7 @@ FinInclusion: Assessing Financial Inclusion in Digital Financial Services
 * **Duration:** 2 years: 2023 - 2025
 * **Role:** Co-Primary Investigator (Co-PI)
 * **Summary:** This is an interdisciplinary/joint project investigating “Software Fairness of Digital Financial Services (DFS)” with the ADA Chair (of Prof. Dirk Andreas Zetzsche (Co-PI)) in Financial Law (inclusive finance), Chair in Sustainable Finance (of Prof. Michael Halling (Co-PI)) and Serval, SnT (led by Prof. Yves Le Traon and Dr. Mike Papadakis (Co-PIs)).
-* **Outputs:** [preprint](https://arxiv.org/pdf/2205.08809)
+* **Outputs:** [CSUR25](https://arxiv.org/pdf/2205.08809)
 
 LAIWYERS: Law and AI: WaYs to Explore Robust Solutions
 ------------------------
@@ -49,4 +49,4 @@ LAIWYERS: Law and AI: WaYs to Explore Robust Solutions
 * **Duration:** 3 years: 2020 - 2022
 * **Role:** Co-Investigator (Research Lead)
 * **Summary:** This is a collaborative research project investigating the fairness properties of Legal AI systems jointly conducted by the SerVal Group, SnT (led by Prof. Yves Le Traon (Co-PI)), and the Media and Telecommunication Law Group (of  Prof. Dr. Mark Cole (Co-PI)).
-* **Outputs:** [TSE22](https://ieeexplore.ieee.org/abstract/document/9678017), [preprint](https://arxiv.org/pdf/2305.13935)
+* **Outputs:** [TSE22](https://ieeexplore.ieee.org/abstract/document/9678017), [JSS24](https://arxiv.org/pdf/2305.13935)
