@@ -78,9 +78,9 @@ Ezekiel leads the **Trust**worthy Soft**Ware** (TrustWare) research group at
 
 ### Research Assistants (RAs):
 
-- [CHUA Jin Chou](https://www.linkedin.com/in/jin-chou-chua-6ba100151/), BSc ESD SUTD (2025): RA, 2025 - present
-- [NAMBIAR Sarang](https://www.linkedin.com/in/sarangnambiar/), BSc CSD SUTD (2025): RA, 2025 - present
-- [PRADHAN Dhruv](https://www.linkedin.com/in/dhruv-pradhan-b8518a202/), BSc CSD SUTD (2025): RA, 2025 - present
+- [CHUA Jin Chou](https://www.linkedin.com/in/jin-chou-chua-6ba100151/), BSc ESD SUTD (2025): 2025 - present
+- [NAMBIAR Sarang](https://www.linkedin.com/in/sarangnambiar/), BSc CSD SUTD (2025): 2025 - present
+- [PRADHAN Dhruv](https://www.linkedin.com/in/dhruv-pradhan-b8518a202/), BSc CSD SUTD (2025): 2025 - present
 
 
 ### Visiting Students
