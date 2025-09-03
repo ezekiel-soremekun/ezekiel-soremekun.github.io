@@ -73,7 +73,8 @@ News
 TrustWare Research Team
 ----
 
-Ezekiel leads the **Trust**worthy Soft**Ware** (TrustWare) research group. 
+Ezekiel leads the **Trust**worthy Soft**Ware** (TrustWare) research group at 
+[SUTD](https://www.sutd.edu.sg/). 
 
 ### Research Assistants (RAs):
 
