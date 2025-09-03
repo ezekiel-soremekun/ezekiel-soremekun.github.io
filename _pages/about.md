@@ -9,18 +9,21 @@ redirect_from:
 ---
 
 [Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Assistant Professor at 
-the [ISTD Pillar](https://istd.sutd.edu.sg/) of the 
-[Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
+[SUTD](https://www.sutd.edu.sg/). He was previously a Lecturer (Asst. Prof.) at [RHUL](https://www.royalholloway.ac.uk/), UK.
+Before then, he was a Research Scientist at SnT, [University of Luxembourg](), Luxembourg. 
 
-See [Resume](https://ezekiel-soremekun.github.io/resume/) for professional experience and education. 
+He obtained his PhD from [Saarland University](https://www.uni-saarland.de/en/home.html)
+and [CISPA Helmholtz Center for Information Security](https://cispa.de/en). 
+
+
+<!-- the [ISTD Pillar](https://istd.sutd.edu.sg/) of the 
+[Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
+ See [Resume](https://ezekiel-soremekun.github.io/resume/) for professional experience and education.   --->
 
 News
 ----
 
-  * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A*) & SANER 2026 (Core A).
-  * [2025] Co-chaired the Tool Demonstration Track of ISSTA 2025 with Jeongju Sohn  (Core A). 
-  * [2025] Honored to serve on the PC of ICSE 2025 (Core A*), SANER 2025 (Core A) & ICST 2025 (Core A). 
-  
+  * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A*) & SANER 2026 (Core A).  
   * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://arxiv.org/pdf/2205.08809)) (Core A*). 
   * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](https://arxiv.org/pdf/2208.08235)) (Core A). 
   * [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440))  (Core A*). 
@@ -31,6 +34,9 @@ News
   </summary>
 
  <ul>
+  <li> [2025] Co-chaired the Tool Demonstration Track of ISSTA 2025 with Jeongju Sohn  (Core A). </li>
+  <li> [2025] Honored to serve on the PC of ICSE 2025 (Core A*), SANER 2025 (Core A) & ICST 2025 (Core A). </li>
+
   <li>[May '25] Awarded a TL@SUTD grant (100K SGD) on ML supply chain security (as PI). </li>
   <li>[Apr. '25] Honored to receive the Distinguished Reviewer Award, ICSE 2025 (Core A*). </li>  
   <li>[Apr. '25] Honored to be awarded an MOE AcRF Tier 1 (SKI) grant (100K SGD) on Grammar-based Test Generation (as PI). </li> 
@@ -80,7 +86,7 @@ Ezekiel leads the **Trust**worthy Soft**Ware** (TrustWare) research group.
 
 ### Visiting Students
 
-- [M Srinivasan](https://www.linkedin.com/in/srinivasan-m-668154228/), MSc CS, IIT Bangalore (expected 2026)
+- [M Srinivasan](https://www.linkedin.com/in/srinivasan-m-668154228/), MSc CS, IIIT, Bangalore (expected 2026)
 - [Kendrick Lwin](https://www.linkedin.com/in/kendrick-lwin/) BSc CS, RHUL, UK (expected 2026)
 
 
