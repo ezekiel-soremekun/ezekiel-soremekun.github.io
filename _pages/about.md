@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-[Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Assistant Professor at 
-[SUTD](https://www.sutd.edu.sg/). He was previously a Lecturer (Asst. Prof.) at [RHUL](https://www.royalholloway.ac.uk/), UK.
+[Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Asst. Prof. at 
+[SUTD](https://www.sutd.edu.sg/). He was previously a Lecturer at [RHUL](https://www.royalholloway.ac.uk/), UK.
 Before then, he was a Research Scientist at SnT, [University of Luxembourg](), Luxembourg. He has a PhD from [Saarland University](https://www.uni-saarland.de/en/home.html)
 and [CISPA Helmholtz Center for Information Security](https://cispa.de/en). 
 
