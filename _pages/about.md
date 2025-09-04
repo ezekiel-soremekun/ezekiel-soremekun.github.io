@@ -85,7 +85,7 @@ Ezekiel leads the **Trust**worthy Soft**Ware** (TrustWare) research group at
 
 ### Visiting Students
 
-- [SRINIVASAN M.](https://www.linkedin.com/in/srinivasan-m-668154228/), MSc CS (expected 2026), IIIT, Bangalore: 2025 - present
+- [SRINIVASAN M.](https://www.linkedin.com/in/srinivasan-m-668154228/), MTech CSE (expected 2026), IIIT, Bangalore: 2025 - present
 - [LWIN Kendrick](https://www.linkedin.com/in/kendrick-lwin/) BSc CS (expected 2026), RHUL, UK: 2025 - present
 
 
