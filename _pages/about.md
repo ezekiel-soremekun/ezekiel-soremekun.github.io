@@ -22,8 +22,8 @@ News
 ----
 
   * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A*) & SANER 2026 (Core A).  
-  * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://arxiv.org/pdf/2205.08809)) (Core A*). 
-  * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](https://arxiv.org/pdf/2208.08235)) (Core A). 
+  * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://dl.acm.org/doi/10.1145/3762170)) (Core A*). 
+  * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](issre25.pdf)) (Core A). 
   * [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440))  (Core A*). 
 
 <details>
@@ -105,7 +105,7 @@ The over-arching research aim is to provide useful validation techniques, tools 
    * __Software Testing & Analysis__: *systematic analysis of programs and automated 
 generation of test inputs* to expose unexpected program behaviors (see [ASE17](https://ieeexplore.ieee.org/abstract/document/8115639), [TSE20](https://ieeexplore.ieee.org/abstract/document/9154602), [TOSEM23](https://dl.acm.org/doi/full/10.1145/3530786)), 
    * __Automated Debugging__: how to *automatically diagnose, mitigate and repair* incorrect program behaviors (see [ICSE20](https://dl.acm.org/doi/abs/10.1145/3377811.3380329), [FSE20](https://dl.acm.org/doi/abs/10.1145/3368089.3409687), [ISSTA20](https://dl.acm.org/doi/abs/10.1145/3395363.3397349),
-   [EMSE21](https://link.springer.com/article/10.1007/s10664-020-09931-7), [ISSRE25](https://arxiv.org/pdf/2208.08235)), 
+   [EMSE21](https://link.springer.com/article/10.1007/s10664-020-09931-7), [ISSRE25](issre25.pdf)), 
    * __Human Factors in SE__: studying and accounting for *developer behaviors* during (automated) software testing and debugging activities (see [ESEC/FSE17](https://dl.acm.org/doi/abs/10.1145/3106237.3106255),  [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588), 
    [CHI25](https://arxiv.org/abs/2407.11440)), and 
 <!---  * __Human-in-the-loop SE__: building testing and debugging tools that *account for developer behaviors, needs 
@@ -113,4 +113,5 @@ and interactions in software practice*.  --->
    * __AI4SE & SE4AI__: application of SE techniques (e.g., testing and debugging) to address AI concerns and the application of AI methods to address SE tasks (see 
 [TSE22](https://ieeexplore.ieee.org/abstract/document/9678017), [MSR22](https://dl.acm.org/doi/abs/10.1145/3524842.3528456), 
 [COSE23](https://www.sciencedirect.com/science/article/pii/S0167404823000111), [JSS24](https://www.sciencedirect.com/science/article/pii/S0164121224001353), 
-[EMNLP24](https://arxiv.org/abs/2407.12830), [CSUR25](https://arxiv.org/pdf/2205.08809)). 
+[EMNLP24](https://arxiv.org/abs/2407.12830), 
+[CSUR25](https://dl.acm.org/doi/10.1145/3762170)). 

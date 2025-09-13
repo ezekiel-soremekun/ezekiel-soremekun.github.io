@@ -14,6 +14,7 @@ Selected Journal Papers
 * **"Software Fairness: An Analysis and Survey."**
 **Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
 ACM Computing Survey (CSUR) 2025.
+[link](https://dl.acm.org/doi/10.1145/3762170)
 [preprint](https://arxiv.org/pdf/2205.08809)
 [Github - Preprint and Data](https://github.com/ezekiel-soremekun/Software-Fairness-Analysis)
 
@@ -61,7 +62,7 @@ Selected Conference Papers
 * **“Automatic Data Repair without Format Specifications”** 
 Luo, Zijian, Lukas Kirschner, **Ezekiel Soremekun**, and Rahul Gopinath.
 In Proceedings of the 36th IEEE International Symposium on Software Reliability Engineering. ISSRE 2025.
-[preprint](https://arxiv.org/pdf/2208.08235)
+[preprint](issre25.pdf)
 
 * **"End-user Comprehension of Transfer Risks in Smart Contracts."**
 Panicker, Yustynn, **Ezekiel Soremekun**, Sudipta Chattopadhyay, Sumei Sun.
