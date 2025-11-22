@@ -8,6 +8,8 @@ author_profile: true
 Summary of Funded Projects 
 ----------------------------------
 
+* 2025 - 2027 Joint Primary Investigator (PI) / "CREDO: Comprehend, Refactor, and Decide with Orchestrated Agents – A Framework for Legacy System Evolution” / MOE AcRF Tier 1 (SUTD-SMU Joint Grant) / 125KS$ (SGD)
+
 * 2025 - 2026 Primary Investigator (PI) / “SafeFuzzer: Safety Fuzzing of Machine Learning (ML) Models” / Temasek Lab @SUTD Seed Grant (TL@SUTD Seed) / 100KS$ (SGD)
 
 * 2025 - 2028 Primary Investigator (PI) / “GoalFuzzer: Goal-directed Fuzzing via Distribution Learning” / MOE AcRF Tier 1 (SUTD Kickstarter Initiative (SKI)) / 100KS$ (SGD)
