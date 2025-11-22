@@ -11,13 +11,18 @@ and [DBLP](https://dblp.org/pid/200/2864.html).
 Selected Journal Papers
 ------------------------
 
+* **"Directed Grammar-Based Test Generation."**
+Kirschner, Lukas and **Ezekiel Soremekun**
+IEEE Transactions on Software Engineering (2025)
+[link](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)
+[preprint](https://www.arxiv.org/abs/2508.01472)
+
 * **"Software Fairness: An Analysis and Survey."**
 **Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
 ACM Computing Survey (CSUR) 2025.
 [link](https://dl.acm.org/doi/10.1145/3762170)
 [preprint](https://arxiv.org/pdf/2205.08809)
 [Github - Preprint and Data](https://github.com/ezekiel-soremekun/Software-Fairness-Analysis)
-
 
 * **"Distribution-aware Fairness Test Generation."**
 Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Yves Le Traon, Sudipta Chattopadhyay. 
@@ -30,7 +35,6 @@ Journal of Systems and Software, Elsevier, 2024.
 **Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and  Sudipta Chattopadhyay. 
 Computers & Security, Elsevier, 2023. \* equal contribution.
 [preprint](https://arxiv.org/pdf/2003.00865.pdf)
-
 
 * **"Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution."**
 Ojdanic, Milos, **Ezekiel Soremekun**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.
@@ -123,11 +127,6 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 
 Papers Under Review
 -------------------
-
-* **"Directed Grammar-Based Test Generation."**
-Kirschner, Lukas and **Ezekiel Soremekun**
-(Under Review)
-[preprint](https://www.arxiv.org/abs/2508.01472)
 
 * **"HInter: Exposing Hidden Intersectional Bias in Large Language Models."**
 Souani, Badr, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay, and Yves Le Traon.

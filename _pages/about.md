@@ -22,6 +22,8 @@ News
 ----
 
   * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A*) & SANER 2026 (Core A).  
+  * [Nov. '25] Our paper on "directed grammar-based fuzzing" is accepted at TSE 2025 ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) (Core A*).
+  * [Oct. '25] Awarded an SUTD-SMU grant (125K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude). 
   * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://dl.acm.org/doi/10.1145/3762170)) (Core A*). 
   * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](issre25.pdf)) (Core A). 
   * [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440))  (Core A*). 
