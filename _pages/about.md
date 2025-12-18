@@ -91,9 +91,9 @@ Ezekiel leads the **Trust**worthy Soft**Ware** & AI (TrustWare) research group a
 
 - [SRINIVASAN M.](https://www.linkedin.com/in/srinivasan-m-668154228/), iMTech CSE (expected 2026), IIIT, Bangalore: Aug. 2025 - Jan. 2026
 - [LWIN Kendrick](https://www.linkedin.com/in/kendrick-lwin/), BSc CS (expected 2026), RHUL, UK: Aug. 2025
-- [Emily Heugen](www.linkedin.com/in/emily-heugen-720424394), BSc AI (expected 2026), University of Groningen, Netherlands: Sep. - Dec. 2025 
-- [Richard Zhu](https://richardyzhu.vercel.app/), Bachelor of CS in CS/Statistics (expected 2027), University of Waterloo, Canada: Sep. - Dec. 2025 
-- [Romain Mekki](https://www.linkedin.com/in/romain-mekki/), Engineering Diploma in Data Science (expected 2026), EURECOM (Sophia - Antipolis), France: Sep. - Dec. 2025
+- [HEUGEN Emily](www.linkedin.com/in/emily-heugen-720424394), BSc AI (expected 2026), University of Groningen, Netherlands: Sep. - Dec. 2025 
+- [ZHU Richard](https://richardyzhu.vercel.app/), Bachelor of CS in CS/Statistics (expected 2027), University of Waterloo, Canada: Sep. - Dec. 2025 
+- [MEKKI Romain](https://www.linkedin.com/in/romain-mekki/), Engineering Diploma in Data Science (expected 2026), EURECOM (Sophia - Antipolis), France: Sep. - Dec. 2025
 
 Research
 -------------------
