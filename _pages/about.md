@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-[Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Asst. Prof. at 
+* [Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Asst. Prof. at 
 [SUTD](https://www.sutd.edu.sg/). He was previously a Lecturer at [RHUL](https://www.royalholloway.ac.uk/), UK.
 Before then, he was a Research Scientist at SnT, [University of Luxembourg](), Luxembourg. He has a PhD from [Saarland University](https://www.uni-saarland.de/en/home.html)
 and [CISPA Helmholtz Center for Information Security](https://cispa.de/en). 
+
+* **We are looking for strong, motivated researchers at all levels (Bachelor's, Master's, and PhD) to join our research group, the TrustWare Group at SUTD.** Research positions include PhD, MEng, and Visiting students (iUROP and interns), Student assistants and research assistants. If you wish to join our group, contact Ezekiel via [email](mailto:ezekiel_soremekun@sutd.edu.sg).
 
 
 <!-- the [ISTD Pillar](https://istd.sutd.edu.sg/) of the 
@@ -23,7 +25,7 @@ News
 
   * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A*) & SANER 2026 (Core A).  
   * [Nov. '25] Our paper on "directed grammar-based fuzzing" is accepted at TSE 2025 ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) (Core A*).
-  * [Oct. '25] Awarded an SUTD-SMU grant (125K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude). 
+  * [Oct. '25] Awarded an SUTD-SMU grant (250K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude). 
   * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://dl.acm.org/doi/10.1145/3762170)) (Core A*). 
   * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](issre25.pdf)) (Core A). 
   * [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440))  (Core A*). 
@@ -87,9 +89,11 @@ Ezekiel leads the **Trust**worthy Soft**Ware** & AI (TrustWare) research group a
 
 ### Visiting Students
 
-- [SRINIVASAN M.](https://www.linkedin.com/in/srinivasan-m-668154228/), iMTech CSE (expected 2026), IIIT, Bangalore: 2025 - present
-- [LWIN Kendrick](https://www.linkedin.com/in/kendrick-lwin/) BSc CS (expected 2026), RHUL, UK: 2025 - present
-
+- [SRINIVASAN M.](https://www.linkedin.com/in/srinivasan-m-668154228/), iMTech CSE (expected 2026), IIIT, Bangalore: Aug. 2025 - Jan. 2026
+- [LWIN Kendrick](https://www.linkedin.com/in/kendrick-lwin/), BSc CS (expected 2026), RHUL, UK: Aug. 2025
+- [Emily Julia Roger Heugen](www.linkedin.com/in/emily-heugen-720424394), BSc AI (expected 2026), University of Groningen, Netherlands: Sep. - Dec. 2025 
+- [Richard Zhu](https://richardyzhu.vercel.app/), Bachelor of CS in CS/Statistics (expected 2027), University of Waterloo, Canada: Sep. - Dec. 2025 
+- [Romain Mekki](https://www.linkedin.com/in/romain-mekki/), Engineering Diploma in Data Science (expected 2026), EURECOM (Sophia - Antipolis), France: Sep. - Dec. 2025
 
 Research
 -------------------
