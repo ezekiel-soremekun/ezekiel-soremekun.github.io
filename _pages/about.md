@@ -15,10 +15,10 @@ and [CISPA Helmholtz Center for Information Security](https://cispa.de/en).
 
 * **We are looking for strong, motivated researchers at all levels (Bachelor's, Master's, and PhD) to join our research group, the TrustWare Group at SUTD.** Research positions include PhD, MEng, and Visiting students (iUROP and interns), Student assistants and research assistants. If you wish to join our group, contact Ezekiel via [email](mailto:ezekiel_soremekun@sutd.edu.sg).
 
-
 <!-- the [ISTD Pillar](https://istd.sutd.edu.sg/) of the 
 [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
  See [Resume](https://ezekiel-soremekun.github.io/resume/) for professional experience and education.   --->
+
 
 News
 ----
