@@ -10,9 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Summary
------------------------
-
 [Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Assistant Professor at the [ISTD Pillar](https://istd.sutd.edu.sg/),
 [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
 He was previously a Lecturer at [RHUL](https://www.royalholloway.ac.uk/), UK.
