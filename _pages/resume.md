@@ -10,6 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
+Summary
+-----------------------
+
+[Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Assistant Professor at the [ISTD Pillar](https://istd.sutd.edu.sg/),
+[Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
+He was previously a Lecturer at [RHUL](https://www.royalholloway.ac.uk/), UK.
+Before then, he was a Research Scientist at SnT, [University of Luxembourg](), Luxembourg. He has a PhD from [Saarland University](https://www.uni-saarland.de/en/home.html)
+and [CISPA Helmholtz Center for Information Security](https://cispa.de/en). 
+
+
 Professional Experience
 -----------------------
 
