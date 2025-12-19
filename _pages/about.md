@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* [Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Assistant Professor at the [ISTD Pillar](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. He leads the **Trust**worthy Soft**Ware** & AI (TrustWare) research group at [SUTD](https://www.sutd.edu.sg/). 
+* [Ezekiel Soremekun](https://www.sutd.edu.sg/profile/ezekiel-soremekun) is an Assistant Professor at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
+
+* He leads the **Trust**worthy Soft**Ware** & AI (TrustWare) research group at [SUTD](https://www.sutd.edu.sg/). 
 
 * **We are looking for strong, motivated researchers at all levels (Bachelor's, Master's, and PhD) to join our research group, the TrustWare Group at SUTD.** Research positions include PhD, MEng, and Visiting students (iUROP and interns), Student assistants and research assistants. If you wish to join our group, contact Ezekiel via [email](mailto:ezekiel_soremekun@sutd.edu.sg).
 
