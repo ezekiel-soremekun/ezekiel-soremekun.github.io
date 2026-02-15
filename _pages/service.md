@@ -15,6 +15,8 @@ Recent Program Committee Member:
 *  **2026**: 
 
 	- [FSE 2026 - Research Track](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers)
+	- [ASE 2026 - Research Track](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+	- [ISSTA 2026 - Research Track](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
 	- [SANER 2026 - Research Track](https://conf.researchr.org/track/saner-2026/saner-2026-papers)
 
 

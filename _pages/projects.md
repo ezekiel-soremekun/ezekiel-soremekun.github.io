@@ -22,6 +22,7 @@ Summary of Funded Projects
 
 * 2020 – 2022 	Co-Investigator (Research Lead) / “LAIWYERS: Law and AI: WaYs to Explore Robust Solutions” / Audacity Grant AUDACITY-2019-Laiwyers / Institute for Advanced Studies (IAS) of the University of Luxembourg / 390K€ (EUR) 
 
+<!-- 
 
 Details of Completed Projects
 ------------------------
@@ -52,3 +53,5 @@ Details of Completed Projects
 * **Role:** Co-Investigator (Research Lead)
 * **Summary:** This is a collaborative research project investigating the fairness properties of Legal AI systems jointly conducted by the SerVal Group, SnT (led by Prof. Yves Le Traon (Co-PI)), and the Media and Telecommunication Law Group (of  Prof. Dr. Mark Cole (Co-PI)).
 * **Outputs:** [TSE22](https://ieeexplore.ieee.org/abstract/document/9678017), [JSS24](https://arxiv.org/pdf/2305.13935)
+
+-->

@@ -9,6 +9,27 @@ author_profile: true
 University Lectures
 -----------------------------------
 
+* **Course Instructor:  [50.053 Software Testing and Verification](https://www.sutd.edu.sg/course/50-053-software-testing-and-verification)**
+	 * **Duration:**  2026 Spring Term (Jan. to Apr. 2026)
+	 * **Course Title:** Artificial Intelligence
+	 * **Program:** BSc Computer Science (Year 3 and 4), Singapore University of Technology and Design (SUTD), Singapore. 
+	 * **Summary:** Deliver lectures on Automated Software Testing method (e.g., fuzzing) to about 37 Term 6/8 undergraduate students. 
+	 
+
+* **Course Instructor:  [50.021 Artificial Intelligence](https://www.sutd.edu.sg/course/50-021-artificial-intelligence)**
+	 * **Duration:**  2026 Spring Term (Jan. to Apr. 2026)
+	 * **Course Title:** Artificial Intelligence
+	 * **Program:** BSc Computer Science (Year 3 and 4), Singapore University of Technology and Design (SUTD), Singapore. 
+	 * **Summary:** Deliver lectures on Artificial Intelligence to about 98 Term 6/8 undergraduate students. 
+
+
+* **Course Instructor:  [DAI-E Studio (Industry)](https://www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise/programme-structure/#tabs)
+	 * **Duration:**  2025 Fall Term (Sep. to Dec. 2025)
+	 * **Course Title:** Design AI Studio project(s) with industry partner(s)
+	 * **Program:** MSc in Design and Artificial Intelligence for Enterprise, Singapore University of Technology and Design (SUTD), Singapore. 
+	 * **Summary:** Advising 11 MSc Students in their industrial project in the intersection of Security and AI. 
+
+
 * **Course Instructor:  [50.021 Artificial Intelligence](https://istd.sutd.edu.sg/undergraduate/courses/50021-artificial-intelligence/)**
 	 * **Duration:**  2025 Spring Term (Jan. to Apr. 2025)
 	 * **Course Title:** Artificial Intelligence
