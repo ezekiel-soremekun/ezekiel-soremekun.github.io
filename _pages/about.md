@@ -22,7 +22,7 @@ redirect_from:
 News
 ----
 
-  * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A*), ISSTA 2026 (Core A) & SANER 2026 (Core A).  
+  * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A*), ASE 2026 (Core A*), ISSTA 2026 (Core A) & SANER 2026 (Core A).  
   * [Nov. '25] Our paper on "directed grammar-based fuzzing" is accepted at TSE 2025 ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) (Core A*).
   * [Oct. '25] Awarded an SUTD-SMU grant (250K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude). 
   * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://dl.acm.org/doi/10.1145/3762170)) (Core A*). 
@@ -76,12 +76,20 @@ News
 TrustWare Research Team
 ----
 
-### Research Assistants (RAs):
+### PhD Students
+
+- [Tolulope Ifeyemi](https://www.linkedin.com/in/tolulope-ifeyemi/), BEng CE OOU (2023): 2026 - Present
+- [Yustynn Panicker](https://www.linkedin.com/in/yustynn/), BEng ESD SUTD (2019): 2022 - 2026: PhD SUTD (co-supervised with [Prof. Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/) and [Dr. Sun Sumei](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/sun-sumei))
+
+### Research Assistants (RAs)
 
 - [CHUA Jin Chou](https://www.linkedin.com/in/jin-chou-chua-6ba100151/), BEng ESD SUTD (2025): 2025 - present
 - [NAMBIAR Sarang](https://www.linkedin.com/in/sarangnambiar/), BEng CSD SUTD (2025): 2025 - present
 - [PRADHAN Dhruv](https://www.linkedin.com/in/dhruv-pradhan-b8518a202/), BEng CSD SUTD (2025): 2025 - present
 
+<!--
+### Alumni 
+  --->
 
 ### Visiting Students
 
