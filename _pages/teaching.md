@@ -23,7 +23,7 @@ University Lectures
 	 * **Summary:** Deliver lectures on Artificial Intelligence to about 98 Term 6/8 undergraduate students. 
 
 
-* **Course Instructor:  [DAI-E Studio (Industry)](https://www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise/programme-structure/#tabs)**
+* **Course Instructor:  [61.500 DAI-E Studio (Industry)](https://www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise/programme-structure/#tabs)**
 	 * **Duration:**  2025 Fall Term (Sep. to Dec. 2025)
 	 * **Course Title:** Design AI Studio project(s) with industry partner(s)
 	 * **Program:** MSc in Design and Artificial Intelligence for Enterprise, Singapore University of Technology and Design (SUTD), Singapore. 
