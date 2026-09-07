@@ -62,6 +62,16 @@ IEEE Transactions on Software Engineering (2020)
 Selected Conference Papers
 --------------------------
 
+* **MUCOCO: Automated Consistency Testing of Code LLMs.**
+Chou, Chua Jin, Khant That Lwin, and **Ezekiel Soremekun**.
+In Findings of the Association for Computational Linguistics: EMNLP 2026.
+[preprint](https://arxiv.org/abs/2604.19086)
+[Artifact](https://mucoco-tester.github.io/home/)
+
+* **"HInter: Exposing Hidden Intersectional Bias in Large Language Models."**
+Souani, Badr, **Ezekiel Soremekun**, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay, and Yves Le Traon.
+In Proceedings of the 37th IEEE International Symposium on Software Reliability Engineering. ISSRE 2026.
+[preprint](https://arxiv.org/abs/2503.11962)
 
 * **“Automatic Data Repair without Format Specifications”** 
 Luo, Zijian, Lukas Kirschner, **Ezekiel Soremekun**, and Rahul Gopinath.
@@ -128,10 +138,20 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 Papers Under Review
 -------------------
 
-* **"HInter: Exposing Hidden Intersectional Bias in Large Language Models."**
-Souani, Badr, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay, and Yves Le Traon.
+* **AKRASIA: Stealthy Backdoor Attack on Reasoning-based Code LLMs**
+Chua Jin Chou and Sarang Nambiar and Murali Srinivasan and **Ezekiel Soremekun**
 (Under Review)
-[preprint](https://arxiv.org/abs/2503.11962)
+[preprint](https://arxiv.org/abs/2609.01023)
+
+* **ShadowPickle: Evading Machine Learning Model Scanners via Stealthy Pickle Deserialization Attacks**
+Dhruv Pradhan and Sarang Nambiar and **Ezekiel Soremekun**
+(Under Review)
+[preprint](https://arxiv.org/abs/2607.17503)
+
+* **Malicious ML Model Detection by Learning Dynamic Behaviors**
+Sarang Nambiar and Dhruv Pradhan and **Ezekiel Soremekun**
+(Under Review)
+[preprint](https://arxiv.org/abs/2604.19438)
 
 * **"Latent Mutants: A large-scale study on the Interplay between mutation testing and software evolution."**
 Sohn, Jeongju, Ezekiel Soremekun, and Michail Papadakis.
