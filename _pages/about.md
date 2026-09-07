@@ -85,7 +85,7 @@ TrustWare Research Team
 
 Our research focus is the analysis, testing and mitigation of failures in AI systems (e.g., Code LLMs/Agents) and Software Systems. This includes functional properties (e.g., correctness) and non-functional properties (e.g., security, safety, robustness, and fairness) of AI systems and traditional software systems. 
 
-Recent or ongoing works in Trustworthy Software and Trustrworthy AI include the following:
+Recent or ongoing works in Trustworthy Software and Trustworthy AI include the following:
 
 ### Trustworthy AI
 
