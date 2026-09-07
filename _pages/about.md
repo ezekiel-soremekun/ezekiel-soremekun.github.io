@@ -21,8 +21,13 @@ redirect_from:
 
 News
 ----
-
+  * [2027] Invited to serve on the PC of ESEC/FSE 2027 (Core A\*), and ICSE 2027 (Core A\*). 
   * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A\*), ASE 2026 (Core A\*), ISSTA 2026 (Core A) & SANER 2026 (Core A).  
+  
+  * [Sep. '26] Our paper on "automated consistency testing of Code LLMs" is accepted at [EMNLP 2026](https://arxiv.org/abs/2604.19086) (Core A). 
+  * [July '26] Our paper on "automated discovery of hidden intersectional bias in LLMs" is accepted at [ISSRE 2026](https://arxiv.org/abs/2503.11962) (Core A). 
+  * [July '26] Our work on  "directed grammar-based fuzzing" ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) is accepted and presented at FSE 2027 (Core A*) Journal-First Track . 
+
   * [Nov. '25] Our paper on "directed grammar-based fuzzing" is accepted at TSE 2025 ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) (Core A*).
   * [Oct. '25] Awarded an SUTD-SMU grant (250K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude). 
   * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://dl.acm.org/doi/10.1145/3762170)) (Core A*). 
@@ -76,6 +81,27 @@ News
 TrustWare Research Team
 ----
 
+## Research Focus 
+
+Our research focus is the analysis, testing and mitigation of failures in AI systems (e.g., Code LLMs/Agents) and Software Systems. This includes functional properties (e.g., correctness) and non-functional properties (e.g., security, safety, robustness, and fairness) of AI systems and traditional software systems. 
+
+Recent or ongoing works in Trustworthy Software and Trustrworthy AI include the following:
+
+### Trustworthy AI
+
+* __Security and Safety of LLMs__: E.g., Backdoor Attacks and Defense for Code LLMs (Akrasia)[https://arxiv.org/abs/2609.01023]
+* __Consistency Testing of LLMs__: E.g., Code LLM Consistency Testing (MuCoCo)[https://arxiv.org/abs/2604.19086], natural-language LLM consistency testing (KontTest)[https://aclanthology.org/2024.findings-emnlp.596/]
+* __Fairness Testing of LLMs__: E.g., exposing hidden intersectional bias in LLMs (HInter)[https://arxiv.org/abs/2503.11962]
+* __System security of ML Models__: detecting and exposing malicious ML models and attacks on Model hubs, e.g.,  (ShadowPickle)[https://arxiv.org/abs/2607.17503], (DynaHug)[https://arxiv.org/abs/2604.19438]
+
+### Trustworthy Software
+
+* __Grammar-based Testing and Debugging__: E.g., evolutionary grammar-based test generation [FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0
+* __End-user Security of Smart Contracts__: E.g., end-user security of smart contracts ([CHI25](https://arxiv.org/abs/2407.11440)
+
+
+## People
+
 ### PhD Students
 
 - [Tolulope Ifeyemi](https://www.linkedin.com/in/tolulope-ifeyemi/), BEng CE OOU (2023): 2026 - Present
@@ -83,15 +109,19 @@ TrustWare Research Team
 
 ### Research Assistants (RAs)
 
-- [CHUA Jin Chou](https://www.linkedin.com/in/jin-chou-chua-6ba100151/), BEng ESD SUTD (2025): 2025 - present
 - [NAMBIAR Sarang](https://www.linkedin.com/in/sarangnambiar/), BEng CSD SUTD (2025): 2025 - present
-- [PRADHAN Dhruv](https://www.linkedin.com/in/dhruv-pradhan-b8518a202/), BEng CSD SUTD (2025): 2025 - present
 
-<!--
-### Alumni 
-  --->
 
 ### Visiting Students
+
+
+### Alumni (RA)
+
+- [CHUA Jin Chou](https://www.linkedin.com/in/jin-chou-chua-6ba100151/), BEng ESD SUTD (2025): 2025 - 2026 (now with Discovermarket Asia Pte. Ltd.)
+- [PRADHAN Dhruv](https://www.linkedin.com/in/dhruv-pradhan-b8518a202/), BEng CSD SUTD (2025): 2025 - 2026 (now with ST Engineering)
+
+
+### Alumni (Visiting students/iROP)
 
 - [SRINIVASAN M.](https://www.linkedin.com/in/srinivasan-m-668154228/), iMTech CSE (expected 2026), IIIT, Bangalore: Aug. 2025 - Jan. 2026
 - [LWIN Kendrick](https://www.linkedin.com/in/kendrick-lwin/), BSc CS (expected 2026), RHUL, UK: Aug. 2025
@@ -99,29 +129,3 @@ TrustWare Research Team
 - [ZHU Richard](https://richardyzhu.vercel.app/), Bachelor of CS in CS/Statistics (expected 2027), University of Waterloo, Canada: Sep. - Dec. 2025 
 - [MEKKI Romain](https://www.linkedin.com/in/romain-mekki/), Engineering Diploma in Data Science (expected 2026), EURECOM (Sophia - Antipolis), France: Sep. - Dec. 2025
 
-Research
--------------------
-Ezekiel's research is primarily focused on **software engineering** (SE), especially **software validation**.
-This includes SE research concerns such as **automated debugging**, **software testing**, 
-**program analysis**, and **security testing**. 
-He is interested in studying both functional properties (e.g., correctness)
-and non-functional properties (e.g., security, robustness, and fairness) of 
-software systems, including artificial intelligence (AI) -driven systems (e.g., automated classifiers). 
-
-Ezekiel's research objective is to **apply scientific methods to validate software systems**. 
-His main research goal is to address key challenges in software validation by **developing methods and tools to support developers during software testing and debugging activities**.
-
-The over-arching research aim is to provide useful validation techniques, tools and empirical studies for the following:
-   * __Software Testing & Analysis__: *systematic analysis of programs and automated 
-generation of test inputs* to expose unexpected program behaviors (see [ASE17](https://ieeexplore.ieee.org/abstract/document/8115639), [TSE20](https://ieeexplore.ieee.org/abstract/document/9154602), [TOSEM23](https://dl.acm.org/doi/full/10.1145/3530786)), 
-   * __Automated Debugging__: how to *automatically diagnose, mitigate and repair* incorrect program behaviors (see [ICSE20](https://dl.acm.org/doi/abs/10.1145/3377811.3380329), [FSE20](https://dl.acm.org/doi/abs/10.1145/3368089.3409687), [ISSTA20](https://dl.acm.org/doi/abs/10.1145/3395363.3397349),
-   [EMSE21](https://link.springer.com/article/10.1007/s10664-020-09931-7), [ISSRE25](issre25.pdf)), 
-   * __Human Factors in SE__: studying and accounting for *developer behaviors* during (automated) software testing and debugging activities (see [ESEC/FSE17](https://dl.acm.org/doi/abs/10.1145/3106237.3106255),  [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588), 
-   [CHI25](https://arxiv.org/abs/2407.11440)), and 
-<!---  * __Human-in-the-loop SE__: building testing and debugging tools that *account for developer behaviors, needs 
-and interactions in software practice*.  --->
-   * __AI4SE & SE4AI__: application of SE techniques (e.g., testing and debugging) to address AI concerns and the application of AI methods to address SE tasks (see 
-[TSE22](https://ieeexplore.ieee.org/abstract/document/9678017), [MSR22](https://dl.acm.org/doi/abs/10.1145/3524842.3528456), 
-[COSE23](https://www.sciencedirect.com/science/article/pii/S0167404823000111), [JSS24](https://www.sciencedirect.com/science/article/pii/S0164121224001353), 
-[EMNLP24](https://arxiv.org/abs/2407.12830), 
-[CSUR25](https://dl.acm.org/doi/10.1145/3762170)). 
