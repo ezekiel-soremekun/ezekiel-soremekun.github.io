@@ -89,15 +89,15 @@ Recent or ongoing works in Trustworthy Software and Trustrworthy AI include the 
 
 ### Trustworthy AI
 
-* __Security and Safety of LLMs__: E.g., Backdoor Attacks and Defense for Code LLMs (Akrasia)[https://arxiv.org/abs/2609.01023]
-* __Consistency Testing of LLMs__: E.g., Code LLM Consistency Testing (MuCoCo)[https://arxiv.org/abs/2604.19086], natural-language LLM consistency testing (KontTest)[https://aclanthology.org/2024.findings-emnlp.596/]
-* __Fairness Testing of LLMs__: E.g., exposing hidden intersectional bias in LLMs (HInter)[https://arxiv.org/abs/2503.11962]
-* __System security of ML Models__: detecting and exposing malicious ML models and attacks on Model hubs, e.g.,  (ShadowPickle)[https://arxiv.org/abs/2607.17503], (DynaHug)[https://arxiv.org/abs/2604.19438]
+* __Security and Safety of LLMs__: E.g., Backdoor Attacks and Defense for Code LLMs [Akrasia](https://arxiv.org/abs/2609.01023)
+* __Consistency Testing of LLMs__: E.g., Code LLM Consistency Testing [MuCoCo](https://arxiv.org/abs/2604.19086), natural-language LLM consistency testing [KontTest](https://aclanthology.org/2024.findings-emnlp.596/)
+* __Fairness Testing of LLMs__: E.g., exposing hidden intersectional bias in LLMs [HInter](https://arxiv.org/abs/2503.11962)
+* __System security of ML Models__: detecting and exposing malicious ML models and attacks on Model hubs, e.g.,  [ShadowPickle](https://arxiv.org/abs/2607.17503), [DynaHug](https://arxiv.org/abs/2604.19438)
 
 ### Trustworthy Software
 
-* __Grammar-based Testing and Debugging__: E.g., evolutionary grammar-based test generation [FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0
-* __End-user Security of Smart Contracts__: E.g., end-user security of smart contracts ([CHI25](https://arxiv.org/abs/2407.11440)
+* __Grammar-based Testing and Debugging__: E.g., evolutionary grammar-based test generation [FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)
+* __End-user Security of Smart Contracts__: E.g., end-user security of smart contracts [CHI25](https://arxiv.org/abs/2407.11440)
 
 
 ## People
