@@ -24,9 +24,9 @@ News
   * [2027] Invited to serve on the PC of ESEC/FSE 2027 (Core A\*), and ICSE 2027 (Core A\*). 
   * [2026] Invited to serve on the PC of ESEC/FSE 2026 (Core A\*), ASE 2026 (Core A\*), ISSTA 2026 (Core A) & SANER 2026 (Core A).  
   
-  * [Sep. '26] Our paper on "automated consistency testing of Code LLMs" is accepted at [EMNLP 2026](https://arxiv.org/abs/2604.19086) (Core A). 
+  * [Sep. '26] Our paper on "automated consistency testing of Code LLMs" is accepted at [EMNLP 2026](https://arxiv.org/abs/2604.19086) (Core A\*). 
   * [July '26] Our paper on "automated discovery of hidden intersectional bias in LLMs" is accepted at [ISSRE 2026](https://arxiv.org/abs/2503.11962) (Core A). 
-  * [July '26] Our work on  "directed grammar-based fuzzing" ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) is accepted and presented at FSE 2027 (Core A*) Journal-First Track . 
+  * [July '26] Our work on  "directed grammar-based fuzzing" ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) is accepted and presented at FSE 2027 (Core A\*) Journal-First Track . 
 
   * [Nov. '25] Our paper on "directed grammar-based fuzzing" is accepted at TSE 2025 ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) (Core A*).
   * [Oct. '25] Awarded an SUTD-SMU grant (250K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude). 
