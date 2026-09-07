@@ -62,7 +62,7 @@ IEEE Transactions on Software Engineering (2020)
 Selected Conference Papers
 --------------------------
 
-* **MUCOCO: Automated Consistency Testing of Code LLMs.**
+* **"MUCOCO: Automated Consistency Testing of Code LLMs."**
 Chou, Chua Jin, Khant That Lwin, and **Ezekiel Soremekun**.
 In Findings of the Association for Computational Linguistics: EMNLP 2026.
 [preprint](https://arxiv.org/abs/2604.19086)
@@ -138,17 +138,17 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 Papers Under Review
 -------------------
 
-* **AKRASIA: Stealthy Backdoor Attack on Reasoning-based Code LLMs**
+* **"AKRASIA: Stealthy Backdoor Attack on Reasoning-based Code LLMs."**
 Chua Jin Chou and Sarang Nambiar and Murali Srinivasan and **Ezekiel Soremekun**
 (Under Review)
 [preprint](https://arxiv.org/abs/2609.01023)
 
-* **ShadowPickle: Evading Machine Learning Model Scanners via Stealthy Pickle Deserialization Attacks**
+* **"ShadowPickle: Evading Machine Learning Model Scanners via Stealthy Pickle Deserialization Attacks."**
 Dhruv Pradhan and Sarang Nambiar and **Ezekiel Soremekun**
 (Under Review)
 [preprint](https://arxiv.org/abs/2607.17503)
 
-* **Malicious ML Model Detection by Learning Dynamic Behaviors**
+* **"Malicious ML Model Detection by Learning Dynamic Behaviors."**
 Sarang Nambiar and Dhruv Pradhan and **Ezekiel Soremekun**
 (Under Review)
 [preprint](https://arxiv.org/abs/2604.19438)
