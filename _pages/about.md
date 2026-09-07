@@ -96,9 +96,9 @@ Recent or ongoing works in Trustworthy Software and Trustrworthy AI include the 
 
 ### Trustworthy Software
 
-* __Grammar-based Testing__: e.g., evolutionary grammar-based testing ([FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0), and probabilistic grammar-based testing ([Inputs From Hell](https://ieeexplore.ieee.org/abstract/document/9154602))
-* __Usability and Security of Smart Contracts__: E.g., end-user security of smart contracts ([CHI25](https://arxiv.org/abs/2407.11440))
-* __Input Debugging and Repair__: automated input degugging and repair (e.g., [$\epsilon$Repair](issre25.pdf), and [ddmax](https://ieeexplore.ieee.org/abstract/document/9284127))
+* __Grammar-based Testing__: evolutionary grammar-based testing (e.g., [FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0), and probabilistic grammar-based testing (e.g., [Inputs From Hell](https://ieeexplore.ieee.org/abstract/document/9154602))
+* __Security of Smart Contracts__: e.g., end-user security of smart contracts ([CHI25](https://arxiv.org/abs/2407.11440))
+* __Input Debugging and Repair__: automated input debugging (e.g., [$\epsilon$Repair](issre25.pdf), and [ddmax](https://ieeexplore.ieee.org/abstract/document/9284127))
 * __Grammar-based Debugging__: e.g., [DDSET](https://dl.acm.org/doi/abs/10.1145/3395363.3397349) and [Alhazen](https://dl.acm.org/doi/abs/10.1145/3368089.3409687)
 
 
