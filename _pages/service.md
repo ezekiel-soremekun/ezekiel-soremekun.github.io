@@ -12,6 +12,11 @@ Conferences
 
 Recent Program Committee Member: 
 
+*  **2027**: 
+
+	- [ICSE 2027 - Research Track](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee)
+	- [FSE 2027 - Research Track](https://conf.researchr.org/committee/fse-2027/fse-2027-papers-program-committee)
+
 *  **2026**: 
 
 	- [FSE 2026 - Research Track](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers)
@@ -57,9 +62,11 @@ Full list of journal review service can be found on [orcid](https://orcid.org/00
 
 Recent Journal Reviews:
 
-*  TSE,  IEEE Transactions on Software Engineering (TSE 2021, 2022, 2023, 2024, 2025)
-*  TOSEM, ACM Transactions on Software Engineering and Methodology (TOSEM 2021, 2022, 2023, 2024, 2025)
-*  EMSE,  Empirical software engineering (EMSE 2023, 2024, 2025)
+*  TSE,  IEEE Transactions on Software Engineering (TSE 2021, 2022, 2023, 2024, 2025, 2026)
+*  TOSEM, ACM Transactions on Software Engineering and Methodology (TOSEM 2021, 2022, 2023, 2024, 2025, 2026)
+*  TDSC, IEEE Transactions on Dependable and Secure Computing (TDSC 2025, 2026)
+*  TIFS, IEEE Transactions on Information Forensics and Security (TIFS 2025, 2026)
+*  EMSE,  Empirical software engineering (EMSE 2023, 2024, 2025, 2026)
 *  CSUR, ACM Computing Surveys (CSUR 2024, 2025) 
 *  COSE, Computers & Security Journal (COSE 2024)
 *  JSS, The Journal of systems and software (JSS 2023, 2024)
