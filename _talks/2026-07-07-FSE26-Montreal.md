@@ -8,7 +8,7 @@ date: 2026-07-07
 location: "Montreal, Canada"
 ---
 
-[More information here](https://conf.researchr.org/profile/icse-2023/ezekielsoremekun#)
+[More information here](https://conf.researchr.org/profile/fse-2026/ezekielsoremekun)
 
 [Website](https://debugging-assumptions.github.io/)
 
