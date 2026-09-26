@@ -89,9 +89,9 @@ Our research focus is the analysis, testing and mitigation of failures in AI sys
 ### Trustworthy AI
 
 * __Security and Safety of LLMs__: security attacks/defense for Code LLMs (e.g., [Akrasia](https://arxiv.org/abs/2609.01023))
-* __(Code) LLM Consistency/Robustness__: e.g., [MuCoCo](https://arxiv.org/abs/2604.19086),  [KonTest](https://aclanthology.org/2024.findings-emnlp.596/)
+* __LLM Consistency/Robustness__: automated consistency testing [MuCoCo](https://arxiv.org/abs/2604.19086),  [KonTest](https://aclanthology.org/2024.findings-emnlp.596/)
 * __Fairness Testing of LLMs__: e.g., exposing hidden intersectional bias in LLMs ([HInter](https://arxiv.org/abs/2503.11962))
-* __System security of ML Models__: security attacks/defenses (  [ShadowPickle](https://arxiv.org/abs/2607.17503), [DynaHug](https://arxiv.org/abs/2604.19438))
+* __System security of ML Models__: security attacks/defenses ([ShadowPickle](https://arxiv.org/abs/2607.17503), [DynaHug](https://arxiv.org/abs/2604.19438))
 
 ### Trustworthy Software
 
