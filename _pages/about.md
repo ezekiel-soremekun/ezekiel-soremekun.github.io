@@ -12,7 +12,7 @@ redirect_from:
 
 * He leads the **Trust**worthy Soft**Ware** & AI (TrustWare) research group at [SUTD](https://www.sutd.edu.sg/). 
 
-* **We are looking for strong, motivated researchers at all levels (Bachelor's, Master's, and PhD) to join our research group, the TrustWare Group at SUTD.** Research positions include PhD, MEng, and Visiting students (iUROP and interns), Student assistants and research assistants. If you wish to join our group, contact Ezekiel via [email](mailto:ezekiel_soremekun@sutd.edu.sg).
+* **We are looking for strong, motivated researchers at all levels (Bachelor's, Master's, and PhD) to join our research group, the TrustWare Group at SUTD.** Research positions include PhD, MEng, and Visiting students (iUROP and interns), Student assistants and research assistants. If you wish to join our group, please fill this [form](https://forms.gle/p7Fz77V7dwWEq4UH9).
 
 <!-- the [ISTD Pillar](https://istd.sutd.edu.sg/) of the 
 [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), Singapore. 
@@ -28,20 +28,21 @@ News
   * [July '26] Our paper on "automated discovery of hidden intersectional bias in LLMs" is accepted at [ISSRE 2026](https://arxiv.org/abs/2503.11962) (Core A). 
   * [July '26] Our work on  "directed grammar-based fuzzing" ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) is accepted and presented at FSE 2027 (Core A\*) Journal-First Track . 
 
-  * [Nov. '25] Our paper on "directed grammar-based fuzzing" is accepted at TSE 2025 ([TSE25](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0)) (Core A*).
-  * [Oct. '25] Awarded an SUTD-SMU grant (250K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude). 
-  * [Jul. '25] Our survey on "software fairness" is accepted at ACM Computing Surveys (CSUR) 2025 ([CSUR25](https://dl.acm.org/doi/10.1145/3762170)) (Core A*). 
-  * [Jul. '25] Our paper on "automated input repair without specifications" is accepted at ISSRE 2025 ([ISSRE25](issre25.pdf)) (Core A). 
-  * [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at CHI 2025 ([CHI25](https://arxiv.org/abs/2407.11440))  (Core A*). 
-
 <details>
   <summary>
      <b>Older/Other</b>
   </summary>
 
  <ul>
+	 
   <li> [2025] Co-chaired the Tool Demonstration Track of ISSTA 2025 with Jeongju Sohn  (Core A). </li>
   <li> [2025] Honored to serve on the PC of ICSE 2025 (Core A*), SANER 2025 (Core A) & ICST 2025 (Core A). </li>
+
+  <li> [Nov. '25] Our paper on "directed grammar-based fuzzing" is accepted at <a href="https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0">TSE 2025</a> (Core A*). </li>
+ <li> [Oct. '25] Awarded an SUTD-SMU grant (250K SGD) on "Agentic Legacy System Evolution" (as Joint PI with Prof. Christoph Treude).  </li>
+   <li> [Jul. '25] Our survey on "software fairness" is accepted at <a href="https://dl.acm.org/doi/10.1145/3762170">ACM Computing Surveys (CSUR) 2025</a> (Core A*).  </li>
+   <li> [Jul. '25] Our paper on "automated input repair without specifications" is accepted at <a href="https://ieeexplore.ieee.org/abstract/document/11229446">ISSRE 2025</a> (Core A).  </li>
+   <li> [Jan. '25] Our paper on "end-user security of smart contracts" is accepted at <a href="https://arxiv.org/abs/2407.11440">CHI 2025</a> (Core A*).  </li>
 
   <li>[May '25] Awarded a TL@SUTD grant (100K SGD) on ML supply chain security (as PI). </li>
   <li>[Apr. '25] Honored to receive the Distinguished Reviewer Award, ICSE 2025 (Core A*). </li>  
@@ -83,20 +84,18 @@ TrustWare Research Team
 
 ## Research Focus 
 
-Our research focus is the analysis, testing and mitigation of failures in AI systems (e.g., Code LLMs/Agents) and Software Systems. This includes functional properties (e.g., correctness) and non-functional properties (e.g., security, safety, robustness, and fairness) of AI systems and traditional software systems. 
-
-Recent or ongoing works in Trustworthy Software and Trustworthy AI include the following:
+Our research focus is the analysis, testing and mitigation of failures in AI systems (e.g., Code LLMs/Agents) and Software Systems. We investigate both functional properties (e.g., correctness) and non-functional properties (e.g., security, safety, robustness, and fairness) of AI systems and traditional software systems. Our recent/ongoing works include the following:
 
 ### Trustworthy AI
 
-* __Security and Safety of LLMs__: security attacks and defense for Code LLMs (e.g., backdoors [Akrasia](https://arxiv.org/abs/2609.01023))
-* __Consistency Testing of LLMs__: automated testing of code  and natural-language consistency/robustness of LLMs (e.g., [MuCoCo](https://arxiv.org/abs/2604.19086) and [KonTest](https://aclanthology.org/2024.findings-emnlp.596/))
+* __Security and Safety of LLMs__: security attacks/defense for Code LLMs (e.g., [Akrasia](https://arxiv.org/abs/2609.01023))
+* __Consistency Testing of LLMs__: automated consistency/robustness testing of (Code) LLMs (e.g., [MuCoCo](https://arxiv.org/abs/2604.19086),  [KonTest](https://aclanthology.org/2024.findings-emnlp.596/))
 * __Fairness Testing of LLMs__: e.g., exposing hidden intersectional bias in LLMs ([HInter](https://arxiv.org/abs/2503.11962))
-* __System security of ML Models__: detecting and exposing malicious attacks on ML models and Model hubs, (e.g.,  [ShadowPickle](https://arxiv.org/abs/2607.17503), [DynaHug](https://arxiv.org/abs/2604.19438))
+* __System security of ML Models__: Malicious ML Model Attacks/Defense (e.g.,  [ShadowPickle](https://arxiv.org/abs/2607.17503), [DynaHug](https://arxiv.org/abs/2604.19438))
 
 ### Trustworthy Software
 
-* __Grammar-based Testing__: evolutionary grammar-based testing (e.g., [FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0), and probabilistic grammar-based testing (e.g., [Inputs From Hell](https://ieeexplore.ieee.org/abstract/document/9154602))
+* __Grammar-based Testing__: e.g., evolutionary/probabilistic testing ( [FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0), [Inputs From Hell](https://ieeexplore.ieee.org/abstract/document/9154602))
 * __Security of Smart Contracts__: e.g., end-user security of smart contracts ([CHI25](https://arxiv.org/abs/2407.11440))
 * __Input Debugging and Repair__: e.g., [$\epsilon$Repair](issre25.pdf), [ddmax](https://ieeexplore.ieee.org/abstract/document/9284127), [DDSET](https://dl.acm.org/doi/abs/10.1145/3395363.3397349) and [Alhazen](https://dl.acm.org/doi/abs/10.1145/3368089.3409687)
 
