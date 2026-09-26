@@ -30,7 +30,7 @@ News
 
 <details>
   <summary>
-     <b>Older/Other</b>
+     <b>Older</b>
   </summary>
 
  <ul>
@@ -89,13 +89,13 @@ Our research focus is the analysis, testing and mitigation of failures in AI sys
 ### Trustworthy AI
 
 * __Security and Safety of LLMs__: security attacks/defense for Code LLMs (e.g., [Akrasia](https://arxiv.org/abs/2609.01023))
-* __Consistency Testing of LLMs__: automated consistency/robustness testing of (Code) LLMs (e.g., [MuCoCo](https://arxiv.org/abs/2604.19086),  [KonTest](https://aclanthology.org/2024.findings-emnlp.596/))
+* __Consistency/Robustness of LLMs__: e.g., consistency testing of (Code) LLMs ([MuCoCo](https://arxiv.org/abs/2604.19086),  [KonTest](https://aclanthology.org/2024.findings-emnlp.596/))
 * __Fairness Testing of LLMs__: e.g., exposing hidden intersectional bias in LLMs ([HInter](https://arxiv.org/abs/2503.11962))
-* __System security of ML Models__: Malicious ML Model Attacks/Defense (e.g.,  [ShadowPickle](https://arxiv.org/abs/2607.17503), [DynaHug](https://arxiv.org/abs/2604.19438))
+* __System security of ML Models__: security attacks/defenses (  [ShadowPickle](https://arxiv.org/abs/2607.17503), [DynaHug](https://arxiv.org/abs/2604.19438))
 
 ### Trustworthy Software
 
-* __Grammar-based Testing__: e.g., evolutionary/probabilistic testing ( [FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0), [Inputs From Hell](https://ieeexplore.ieee.org/abstract/document/9154602))
+* __Grammar-based Testing__: evolutionary/probabilistic testing ([FdLoop](https://www.computer.org/csdl/journal/ts/5555/01/11222834/2beSbbOFJS0), [Inputs From Hell](https://ieeexplore.ieee.org/abstract/document/9154602))
 * __Security of Smart Contracts__: e.g., end-user security of smart contracts ([CHI25](https://arxiv.org/abs/2407.11440))
 * __Input Debugging and Repair__: e.g., [$\epsilon$Repair](issre25.pdf), [ddmax](https://ieeexplore.ieee.org/abstract/document/9284127), [DDSET](https://dl.acm.org/doi/abs/10.1145/3395363.3397349) and [Alhazen](https://dl.acm.org/doi/abs/10.1145/3368089.3409687)
 
